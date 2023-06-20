@@ -2,7 +2,6 @@
 import React, { useState } from "react";
 import { Link , useLocation} from "react-router-dom";
 import { cart } from "../data/cart";
-import End from "./endOrder";
 
 const Pay = () => {
 

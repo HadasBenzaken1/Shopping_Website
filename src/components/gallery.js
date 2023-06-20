@@ -4,10 +4,6 @@ import { imgStore } from "../data/imgStore";
 import Details from "./details";
 import { Link, useLocation } from "react-router-dom";
 
-// const handleDetails = i => {
-// {console.log(i);}
-//    <Details currentProducti={i}/>
-//   };
 
 const Gallery = () =>{
     const location = useLocation();
